@@ -2,7 +2,7 @@
 
 Here you can find several Opensource projects of mine. 
 
-For example, if you want an online business card 📰 that is base64 encoded, you should take a look at [responsive-resume-cv|(https://github.com/weisser-dev/responsive-resume-cv-react)].
+For example, if you want an online business card 📰 that is base64 encoded, you should take a look at [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react).
 If you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here: https://github.com/weisser-dev/responsive-resume-cv-react
 
 I also have a few other projects 📚 and forks of projects that I find very exciting or, for example, are from my former trainees.
