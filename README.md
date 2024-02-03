@@ -11,8 +11,9 @@ As you can see, I also have demos for most of my web projects that run directly 
 
 In case you're wondering why I often use animals 🐱 as images, for example? Well, the dogs (🐶 Balu and Luna) often sit in the office next to me and support me as a FeelGoodManager, so they should also find a place in the projects! :) 
 
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=weisser-dev&hide=contribs,prs) #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=weisser-dev&hide=contribs,prs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 <!--
 **weisser-dev/weisser-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
