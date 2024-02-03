@@ -2,8 +2,8 @@
 
 Here you can find several Opensource projects of mine. 
 
-For example, if you want an online business card 📰 that is base64 encoded, you should take a look at [my-digital-card](https://github.com/weisser-dev/my-digital-card).
-If you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here:  [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react)
+For example, if you want an online business card 📰 that is base64 encoded, you should take a look at [my-digital-card](https://github.com/weisser-dev/my-digital-card) ([Demo](https://weisser-dev.github.io/my-digital-card/)).
+If you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here:  [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react) ([Demo](https://weisser-dev.github.io/responsive-resume-cv-react/))
 
 I also have a few other projects 📚 and forks of projects that I find very exciting or, for example, are from my former trainees.
 
