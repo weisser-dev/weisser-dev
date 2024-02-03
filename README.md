@@ -13,6 +13,7 @@ In case you're wondering why I often use animals 🐱 as images, for example? We
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
+If you are wondering where you get such "fancy" pictures from, just create a repo with you user-name (like weisser-dev) and then follow this documentation -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#themes)
 
 <!--
 **weisser-dev/weisser-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
