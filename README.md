@@ -4,7 +4,20 @@ Here you can find several Opensource projects of mine.
 
 For example:
 - if you want an online business card 📰 that is base64 encoded, you should take a look at [my-digital-card](https://github.com/weisser-dev/my-digital-card) ([Demo](https://weisser-dev.github.io/my-digital-card/)).
-- ff you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here:  [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react) ([Demo](https://weisser-dev.github.io/responsive-resume-cv-react/))
+- if you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here:  [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react) ([Demo](https://weisser-dev.github.io/responsive-resume-cv-react/))
+- if you need a secure pastebin 🔐 with auto-expiring content, password protection, and burn-after-read features, check out [OpenPasteBin](https://github.com/weisser-dev/openpastebin) ([Live](https://paste.weisser.dev)) - Built with React, Node.js, MongoDB & Docker
+
+### 🤖 AI-Assisted Coding
+I'm very passionate about **AI-Assisted Coding** and have created a comprehensive workshop on agentic AI systems! Check it out:
+- **Workshop**: [Agentic AI Workshop](https://github.com/weisser-dev/agentic-ai-workshop) ([Live Demo](https://agentic-ai.weisser.dev))
+- Learn how to build autonomous AI agents that can work with tools, plan tasks, and solve complex problems
+
+### 🛠️ Tech Stack & Preferences
+My go-to technologies for building projects:
+- **Frontend**: React ⚛️, Vite ⚡ (blazing fast!)
+- **Backend**: Node.js 🟢, Quarkus ☕ (supersonic subatomic Java!)
+- **DevOps**: Docker 🐳, Kubernetes ☸️
+- **Python**: Love the language, hate the dependencies 🐍😅 (seriously, dependency hell is real!)
 
 I also have a few other projects 📚 and forks of projects that I find very exciting or, for example, are from my former trainees.
 As you can see, I also have demos for most of my web projects that run directly in Github Pages. If you have any ideas or suggestions for improvement, feel free to get in touch, either via the respective project or alternatively on [LinkedIn](https://www.linkedin.com/in/erik-weisser/)
