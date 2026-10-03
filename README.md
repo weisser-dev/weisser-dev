@@ -1,44 +1,34 @@
-### Hi there 👋
+### Hi, I'm Erik 👋
 
-Here you can find several Opensource projects of mine. 
+**Tech Lead AI / Senior Solution Architect.** I design and scale GenAI and ML platforms — currently an on-premises **Core AI Platform** that connects multiple cloud providers and offers models as a service, with agent runtimes, model routing and MCP (Model Context Protocol) in the mix. Before that: cloud data/ML platforms, Java/Quarkus microservices, e-commerce, and a lot of Scrum and training of apprentices.
 
-For example:
-- if you want an online business card 📰 that is base64 encoded, you should take a look at [my-digital-card](https://github.com/weisser-dev/my-digital-card) ([Demo](https://weisser-dev.github.io/my-digital-card/)).
-- if you need a resume cv 📄 that looks nice on the web 📱 and also as a PDF or print version, then take a look here:  [responsive-resume-cv](https://github.com/weisser-dev/responsive-resume-cv-react) ([Demo](https://weisser-dev.github.io/responsive-resume-cv-react/))
-- if you need a secure pastebin 🔐 with auto-expiring content, password protection, and burn-after-read features, check out [OpenPasteBin](https://github.com/weisser-dev/openpastebin) ([Live](https://paste.weisser.dev)) - Built with React, Node.js, MongoDB & Docker
+Software architecture (iSAQB), Scrum (PSM II, PSPO II), and a soft spot for things that run reliably at 3 a.m.
 
-### 🤖 AI-Assisted Coding
-I'm very passionate about **AI-Assisted Coding** and have created a comprehensive workshop on agentic AI systems! Check it out:
-- **Workshop**: [Agentic AI Workshop](https://github.com/weisser-dev/agentic-ai-workshop) ([Live Demo](https://agentic-ai.weisser.dev))
-- Learn how to build autonomous AI agents that can work with tools, plan tasks, and solve complex problems
+### 🔭 What I'm working on
 
-### 🛠️ Tech Stack & Preferences
-My go-to technologies for building projects:
-- **Frontend**: React ⚛️, Vite ⚡ (blazing fast!)
-- **Backend**: Node.js 🟢, Quarkus ☕ (supersonic subatomic Java!)
-- **DevOps**: Docker 🐳, Kubernetes ☸️
-- **Python**: Love the language, hate the dependencies 🐍😅 (seriously, dependency hell is real!)
+- **Agentic engineering** — building with and for AI agents: guardrails, skills, ops agents. I write about it on the blog: [blog.weisser.dev](https://blog.weisser.dev)
+  - [agentic-skills](https://github.com/weisser-dev/agentic-skills) — my growing collection of skills and subagent definitions for coding agents
+  - [awesome-opencode](https://github.com/weisser-dev/awesome-opencode) — agents, skills and model configs for opencode
+  - [opencode-remote-telegram](https://github.com/weisser-dev/opencode-remote-telegram) — steer a coding agent from Telegram
+  - [agentic-ai-workshop](https://github.com/weisser-dev/agentic-ai-workshop) — interactive workshop on agentic AI systems ([live](https://agentic-ai.weisser.dev))
+- **Homelab as a playground** — one Proxmox host, Docker, Caddy, Cloudflare Tunnel, everything deployed from Git. On top of it a self-built dashboard with ops and CVE agents (read the story: [I built my own Portainer — plus agents — in a single day with AI](https://blog.weisser.dev/blog/2026/10/02/building-my-own-portainer-and-agents-with-ai/)).
+- **Side projects** — [ScrumBuddy](https://scrumbuddy.org) (planning and retrospectives for agile teams) and [BlindGuess](https://weisserbesser.de) (a party-friendly estimation game).
 
-I also have a few other projects 📚 and forks of projects that I find very exciting or, for example, are from my former trainees.
-As you can see, I also have demos for most of my web projects that run directly in Github Pages. If you have any ideas or suggestions for improvement, feel free to get in touch, either via the respective project or alternatively on [LinkedIn](https://www.linkedin.com/in/erik-weisser/)
+### 📦 Open source
 
-In case you're wondering why I often use animals 🐱 as images, for example? Well, the dogs (🐶 Balu and Luna) often sit in the office next to me and support me as a FeelGoodManager, so they should also find a place in the projects! :) 
+- 🔐 [OpenPasteBin](https://github.com/weisser-dev/openpastebin) — self-hostable pastebin with expiry, password protection and burn-after-read ([live](https://paste.weisser.dev))
+- 📰 [my-digital-card](https://github.com/weisser-dev/my-digital-card) — online business card, base64-encoded profile data
+- 📄 [responsive-resume-cv-react](https://github.com/weisser-dev/responsive-resume-cv-react) — a CV that looks good on the web, as PDF and in print
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+### 🛠️ Stack
 
-If you are wondering where you get such "fancy" pictures from, just create a repo with you user-name (like weisser-dev) and then follow this documentation -> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#themes)
+- **AI:** LLM gateways and routing, agents, MCP, evaluation, RAG
+- **Backend:** Java / Quarkus ☕, Node.js 🟢, Python 🐍
+- **Frontend:** React ⚛️, Vite ⚡, Angular
+- **Platform:** Docker 🐳, Kubernetes ☸️, Terraform, CI/CD, AWS / GCP, Linux
 
-<!--
-**weisser-dev/weisser-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Contact
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/erik-weisser/) · [Blog](https://blog.weisser.dev) · [weisser.dev](https://weisser.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Why so many animals in my projects? The dogs 🐶 Balu and Luna sit in the office next to me as official FeelGoodManagers, so they deserve a place in the projects, too. 🐱
